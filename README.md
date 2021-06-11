@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PaliProx
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning python
+- 📫 How to reach me:
+  - Email: `paliprox@gmail.com`
