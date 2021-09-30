@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me:
   - Email: `paliprox@gmail.com`
+  - Discord: `PaliProx#0910`
